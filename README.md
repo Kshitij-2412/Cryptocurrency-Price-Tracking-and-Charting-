@@ -19,3 +19,6 @@ This project leverages cloud technologies and modern web development practices t
 - **JavaScript**: Core programming language for web development.
 - **Third-party APIs**: Integrated for real-time, multi-currency Bitcoin price tracking.
 
+### Deployment
+
+**Visit our live site [here](https://cryptocurrency-price-tracking-and-charting.vercel.app/).**
