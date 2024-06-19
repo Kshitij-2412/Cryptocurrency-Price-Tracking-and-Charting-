@@ -1,4 +1,4 @@
-# Document Verification Project
+# Cryptocurrency Price Tracking and Charting
 
 ## About the Project
 
