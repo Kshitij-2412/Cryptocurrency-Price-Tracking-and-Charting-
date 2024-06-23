@@ -23,7 +23,7 @@ const Home = () => {
           w={"full"}
           h={"full"}
           objectFit={"contain"}
-          src={btcSrc}
+          src="http://d15715fm1ai9qr.cloudfront.net/btc.png"
           filter={"grayscale(1)"}
         />
       </motion.div>
